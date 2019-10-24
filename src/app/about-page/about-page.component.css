@@ -1,0 +1,11 @@
+.card_style {
+    font-size: 5rem;
+    margin-top: 200px;
+}
+.image_opacity {
+    opacity: 0.9;
+}
+.get_margin {
+    box-sizing: border-box;
+    justify-content: space-between;
+}

@@ -1,0 +1,9 @@
+.gallery {
+column-count: 3;
+column-width: 33%; 
+}
+.gallery .pics {
+transition: all 350ms ease;
+}
+.gallery .animation {
+transform: scale(1); }

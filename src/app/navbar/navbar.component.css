@@ -1,0 +1,12 @@
+img {
+    height: 48px;
+    width: 70px;
+    padding-left: 15px;
+}
+.navbar_style {
+    background-color: #e3f2fd;
+    padding: 0px;
+}
+#navbarResponsive {
+    font-size: 1.2rem;
+}
